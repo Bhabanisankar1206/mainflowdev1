@@ -1,1 +1,1 @@
-# mainflowdev1
+A landing page is a standalone web page created specifically for marketing or advertising purposes. It is designed to capture visitors’ attention and encourage them to take a specific action, such as signing up, purchasing a product, or downloading a resource.
